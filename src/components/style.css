@@ -1,0 +1,165 @@
+.mainDiv{
+    background-color: white;
+    overflow: hidden;
+    margin-top: 70px;
+}
+.navbar{
+  z-index: 10;
+}
+.containers{
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+  padding: 10px;
+}
+.containers a{
+  font-size: 20px;
+  margin-left: 20px;
+ 
+}
+.buttt{
+  display: flex;
+  justify-content: end;
+  margin-left: 80px;
+}
+strong{
+  font-size: 30px;
+}
+#navbarNav{
+  margin-left: 80px;
+}
+#navbarNav li{
+  margin: 10px;
+}
+.discoverhead{
+    color: orange;
+    font-size: 35px;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  .discover{
+    display: flex;
+    justify-content: space-around;
+    margin: 80px;
+    width: auto;
+  }
+  .discoverpara{
+    font-size: 18px;
+    color: gray;
+    
+    
+  }
+  .image1{
+    width: 450px;
+    height: 330px;
+    align-self: center;
+
+  }
+  .section2{
+    display: flex;
+    margin: 80px;
+    align-self: center;
+    flex-wrap: wrap;
+  }
+  .section21{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    padding: 10px;
+    font-size: 18px;
+    width: calc(33.33% - 20px);
+  }
+  figcaption{
+    font-weight: bold;
+    font-size: 25px;
+   align-self: center;
+   margin: 5px;
+  }
+  .section2para{
+    align-self: center;
+    color: gray;
+    margin: 5px;
+  }
+  .section3{
+  
+    margin: 80px;
+  }
+  .section31{
+    display: flex;
+    justify-content: space-around;
+  }
+  .section32{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: center;
+  color: gray;
+  font-size: 20px;
+  
+}
+.image2{
+  width: 650px;
+  height: 500px;
+}
+h3{
+  color: orange;
+  font-weight: bold;
+}
+
+.section4{
+  background-color: rgb(246, 241, 241);
+  width: 100vw;
+  margin: 10px;
+  padding: 30px;
+  text-align: center;
+  margin-top: 120px;
+}
+.section41{
+  background-color: rgb(152, 152, 167);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  
+}
+.section42{
+  display: flex;
+  justify-content: center;
+}
+.section41 p{
+  color: white;
+}
+.section5{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  padding: 10px;
+  margin: 10px;
+  margin-bottom: 90px;
+}
+span{
+  color: lightgreen;
+  font-size: 22px;
+}
+.section5 p{
+  font-weight: bold;
+  align-items: self-start;
+}
+.section5 h6{
+font-size: 22px;
+  font-weight: bold;
+}
+.footer {
+  background-color: #1a1a2e; 
+  color: #ffffff; 
+  text-align: center; 
+  padding: 10px 0;
+  font-size: 14px; 
+  
+  bottom: 0;
+  width: 100%; 
+}
